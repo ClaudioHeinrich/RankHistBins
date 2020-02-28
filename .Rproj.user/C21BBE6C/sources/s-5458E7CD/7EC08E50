@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582295845180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7EC08E50",
+    "lastKnownWriteTime" : 1582540241,
+    "last_content_update" : 1582540241197,
+    "path" : "~/Documents/NR/ProjectRankHistograms/simstudy/RankHistBins/R/rh.R",
+    "project_path" : "R/rh.R",
+    "properties" : {
+        "cursorPosition" : "48,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

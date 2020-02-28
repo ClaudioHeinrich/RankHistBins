@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582545688035.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B7B28F14",
+    "lastKnownWriteTime" : 1582546343,
+    "last_content_update" : 1582546343040,
+    "path" : "~/Documents/NR/ProjectRankHistograms/simstudy/RankHistBins/scripts/side/04-suppl_plot_power_by_k.R",
+    "project_path" : "scripts/side/04-suppl_plot_power_by_k.R",
+    "properties" : {
+        "cursorPosition" : "95,5",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

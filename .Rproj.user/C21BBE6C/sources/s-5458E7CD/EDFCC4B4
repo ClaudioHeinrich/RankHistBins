@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582544663682.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EDFCC4B4",
+    "lastKnownWriteTime" : 1582545239,
+    "last_content_update" : 1582545239915,
+    "path" : "~/Documents/NR/ProjectRankHistograms/simstudy/RankHistBins/scripts/02-analyze_dist_dist.R",
+    "project_path" : "scripts/02-analyze_dist_dist.R",
+    "properties" : {
+        "cursorPosition" : "206,0",
+        "scrollLine" : "162"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

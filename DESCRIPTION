@@ -1,0 +1,19 @@
+Package: RankHistBins
+Type: Package
+Title: Analysis on bin numbers in rank histograms
+Version: 0.1.0
+Author: Claudio Heinrich
+Maintainer: Claudio Heinrich <claudio.heinrich@nr.no>
+Description: This package accompanies the paper 'On the number of 
+    bins in a rank histogram'. In particular it provides tools to create
+    histograms with any bin number from rank data and allows to compute 
+    optimal bin numbers for any acceptance threshold, any size of test alpha,
+    and any number of observations n (see paper for detail).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+imports:
+  devtools
+  data.table
+  ggplot2
+  stats
