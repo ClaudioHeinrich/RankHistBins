@@ -1,0 +1,9 @@
+{
+    "path" : "~/NR/ProjectRankHistograms/simstudy/RankHistBins",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
